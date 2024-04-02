@@ -1,1 +1,1 @@
-This folder is a compilation of my projects in my Data Camp track "Data Scientist with Python".
+This folder is a compilation of projects in my Data Camp track "Data Scientist with Python".
